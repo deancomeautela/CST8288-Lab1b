@@ -1,0 +1,2 @@
+# CST8132 Lab 1b - Shannon's Theorem
+This lab requred making a simple Java class to calculate a signal-to-noise ratio using Shannon's Theorem. It just had to take input and make use of JOptionPane's showInputDialog and showMessageDialog boxes and had to return the signal-to-noise ratio as a decimal number with two decimal places of precision, which I accomplished by using the format() method of String. The code also has full Javadoc comments.
